@@ -1,0 +1,49 @@
+<THDOrder>
+  <OrderHeader>
+    <StoreNbr>2671</StoreNbr>
+    <LCustNbr>247825</LCustNbr>
+    <CrteCordSrc>Y</CrteCordSrc>
+    <OrdSrcID>CLOPAY</OrdSrcID>
+    <ExtnlRefTxt>2016228-Clopay</ExtnlRefTxt>
+    <UserID>TXP2187</UserID>
+    <LangCd>en_US</LangCd>
+  </OrderHeader>
+  <ServiceEntry>
+    <InstlItem Action="CREATE">
+      <LineRefNbr>1</LineRefNbr>
+      <InstlSKUNbr>1003202536</InstlSKUNbr>
+      <InstlUOICd>80</InstlUOICd>
+      <IpgmTypInd>B</IpgmTypInd>
+      <InstlOrdQty>1</InstlOrdQty>
+      <InstlQty>1</InstlQty>
+      <InstlMerTaxblFlg>N</InstlMerTaxblFlg>
+      <InstlLbrTaxblFlg>N</InstlLbrTaxblFlg>
+      <PrefPrchMerFlg>N</PrefPrchMerFlg>
+      <FrnInstlFlg>Y</FrnInstlFlg>
+      <IDlvryAvailFlg>N</IDlvryAvailFlg>
+      <InstlRetlAmt>336</InstlRetlAmt>
+      <PrcLstOptNbr>23953</PrcLstOptNbr>
+      <InstlSpecInstrTxt>Sold Online</InstlSpecInstrTxt>
+      <InstlRefNbr>1</InstlRefNbr>
+      <processInstlPickupWillCall>N</processInstlPickupWillCall>
+      <ProcMeasFlg>N</ProcMeasFlg>
+      <SvcSite>
+        <SvcSiteNbr>0</SvcSiteNbr>
+        <SvcSiteCntctNm>MELVIN  COLEMAN</SvcSiteCntctNm>
+        <AddrL1>95 LIBERTY ST</AddrL1>
+        <AddrL2>
+        </AddrL2>
+        <City>RANDOLPH</City>
+        <State>MA</State>
+        <Zip>02368</Zip>
+        <CountryCd>US</CountryCd>
+        <County>NORFOLK</County>
+        <HomeAreaCd>781</HomeAreaCd>
+        <HomePhone>3081909</HomePhone>
+        <AltAreaCd>781</AltAreaCd>
+        <AltPhone>3081909</AltPhone>
+      </SvcSite>
+      <ZeroRetailFlg>N</ZeroRetailFlg>
+    </InstlItem>
+  </ServiceEntry>
+</THDOrder>
